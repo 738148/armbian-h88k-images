@@ -34,7 +34,7 @@ jobs:
         BOARD: [h88k]
         DISTRO: [armbian]
         FLAVOR: [debian]
-        BRANCH: [edge]
+        BRANCH: [legacy]
     steps:
       - name: Checkout
         uses: actions/checkout@v2
