@@ -10,4 +10,4 @@ Current device tree support status:
  - [ ] M.2 M key
  - [ ] PCIE3X4
 
-Download: https://github.com/amazingfate/armbian-h88k-images/releases/latest
+Download: https://github.com/gurongsheng/armbian-h88k-images/releases/latest
