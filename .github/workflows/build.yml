@@ -32,7 +32,7 @@ jobs:
     needs: prepare_release
     strategy:
       matrix:
-        BOARD: [h88k]
+        BOARD: [hinlink-h88k]
         DISTRO: [armbian]
         FLAVOR: [debian]
         BRANCH: [legacy]
