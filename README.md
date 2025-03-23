@@ -1,5 +1,5 @@
 # Armbian images for H88K
-[![image_build](https://github.com/amazingfate/armbian-h88k-images/workflows/Build/badge.svg)](https://github.com/amazingfate/armbian-h88k-images/actions/workflows/build.yml)
+[![image_build](https://github.com/738148/armbian-h88k-images/workflows/Build/badge.svg)](https://github.com/138148/armbian-h88k-images/actions/workflows/build.yml)
 
 Current device tree support status:
  - [x] 2.5G ethernet
@@ -9,4 +9,4 @@ Current device tree support status:
  - [x] PCIE3X4
  - [x] USB
 
-Download: https://github.com/gurongsheng/armbian-h88k-images/releases/latest
+Download: https://github.com/738148/armbian-h88k-images/releases/latest
